@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1464956017 source:c:\users\lenovo\desktop\digitalnetworks\src\logicgates.cpp
+	"LogicGates.h"
+	<cmath>
+	<iostream>
+
+1464954588 c:\users\lenovo\desktop\digitalnetworks\include\logicgates.h
+	<vector>
+
+1465769093 source:c:\users\adauto\documents\digitalnetworks\src\logicgates.cpp
+	"LogicGates.h"
+	"Circuit.h"
+	<cmath>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+
+1465760859 c:\users\adauto\documents\digitalnetworks\include\logicgates.h
+	<vector>
+	<string>
+
+1465768725 source:c:\users\adauto\documents\digitalnetworks\src\circuit.cpp
+	"Circuit.h"
+	"LogicGates.h"
+	<cmath>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<stack>
+
+1465766109 c:\users\adauto\documents\digitalnetworks\include\circuit.h
+	"Circuit.h"
+	"LogicGates.h"
+	<cmath>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+
+1465873539 source:e:\google drive\ctc-20\exameforster-master\digitalnetworks\src\circuit.cpp
+	"Circuit.h"
+	"LogicGates.h"
+	<cmath>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<stack>
+
+1465872883 e:\google drive\ctc-20\exameforster-master\digitalnetworks\include\circuit.h
+	"Circuit.h"
+	"LogicGates.h"
+	<cmath>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+
+1465866236 e:\google drive\ctc-20\exameforster-master\digitalnetworks\include\logicgates.h
+	<vector>
+	<string>
+
+1465867060 source:e:\google drive\ctc-20\exameforster-master\digitalnetworks\src\logicgates.cpp
+	"LogicGates.h"
+	"Circuit.h"
+	<cmath>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+
+1465856527 source:e:\google drive\ctc-20\exameforster-master\digitalnetworks\src\demo.c
+
